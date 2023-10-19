@@ -6,3 +6,4 @@ lxml==4.2.4
 rsa==3.4.2
 biplist==1.0.3
 git+https://github.com/MobSF/CapFuzz.git
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
