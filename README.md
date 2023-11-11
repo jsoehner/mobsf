@@ -1,4 +1,6 @@
 # Mobile Security Framework (MobSF)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/99c2cc39-5260-47fa-b9c1-3c310be3088e.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/mobsf?orgId=320408544746)  
 Version: v1.0 beta
 ![](https://cloud.githubusercontent.com/assets/4301109/20019521/cc61f7fc-a2f2-11e6-95f3-407030d9fdde.png)
 
