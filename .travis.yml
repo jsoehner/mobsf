@@ -4,7 +4,7 @@ matrix:
    - os: linux
      dist: trusty
      sudo: false
-     python: '3.6'
+     python: '3.10'
 # If your build needs more advanced behavior, see detailed Travis CI instructions:
 # https://docs.travis-ci.com/user/languages/python/
 script: pytest
